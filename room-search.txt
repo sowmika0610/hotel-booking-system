@@ -1,0 +1,4 @@
+﻿Search available hotel rooms
+R201 - Standard
+R202 - Single
+R204 - Deluxe
